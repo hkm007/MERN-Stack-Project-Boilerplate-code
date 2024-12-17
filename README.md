@@ -1,1 +1,3 @@
-## MERN stack project boilerplate code
+## Pingoo
+
+A mern stack project boilerplate code.
